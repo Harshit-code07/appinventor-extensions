@@ -1,4 +1,4 @@
-# appinventor-extensions
+# Appinventor-extensions
 MIT App Inventor Extensions Repository
 This is the place where you can submit your .aix extensions.  
 These extensions will be added to extension library in the MIT app inventor,
