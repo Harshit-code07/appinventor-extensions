@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    {
+      "id": "firebase-auth-v1",
+      "name": "Firebase Authentication",
+      "file": "extensions/firebase-auth.json"
+    },
+    {
+      "id": "arduino-bluetooth-v2",
+      "name": "Arduino Bluetooth",
+      "file": "extensions/arduino-bluetooth.json"
+    },
+    {
+      "id": "payment-gateway-v1",
+      "name": "Payment Gateway",
+      "file": "extensions/payment-gateway.json"
+    }
+  ],
+  "lastUpdated": "2025-10-05",
+  "totalExtensions": 3
+}
