@@ -1,0 +1,49 @@
+{
+  "name": "Firebase Authentication",
+  "version": "2.1.0",
+  "developer": {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "github": "https://github.com/johndoe"
+  },
+  "downloadUrl": "https://github.com/johndoe/firebase-auth-aix/releases/download/v2.1.0/FirebaseAuth.aix",
+  "compatibility": {
+    "minAndroid": "5.0",
+    "maxAndroid": "14.0",
+    "aiVersion": "2.65+"
+  },
+  "category": "Firebase",
+  "description": {
+    "short": "Authenticate users with Firebase Authentication - Email/Password, Google Sign-In, and more",
+    "long": "Complete Firebase Authentication implementation for MIT App Inventor. This extension provides a comprehensive solution for user authentication including Email/Password authentication, Google Sign-In, Facebook Login, Phone Authentication, and Anonymous Sign-In. It includes advanced features like password reset, email verification, and user profile management. Perfect for apps that require secure user authentication and authorization."
+  },
+  "documentation": "https://johndoe.github.io/firebase-auth-docs",
+  "githubRepo": "https://github.com/johndoe/firebase-auth-aix",
+  "license": "MIT",
+  "fileSize": "245KB",
+  "dateAdded": "2025-09-15",
+  "lastUpdated": "2025-10-01",
+  "downloads": 1520,
+  "tags": ["firebase", "authentication", "login", "google-signin", "email-auth", "social-login"],
+  "screenshots": [
+    "https://via.placeholder.com/400x300/667eea/ffffff?text=Firebase+Auth+Demo"
+  ],
+  "changelog": [
+    {
+      "version": "2.1.0",
+      "date": "2025-10-01",
+      "changes": "Added Google Sign-In support, improved error handling, and fixed minor bugs"
+    },
+    {
+      "version": "2.0.0",
+      "date": "2025-08-15",
+      "changes": "Complete rewrite with better error handling and support for Firebase SDK 9"
+    },
+    {
+      "version": "1.5.0",
+      "date": "2025-06-20",
+      "changes": "Added phone authentication and email verification features"
+    }
+  ],
+  "verified": true
+}
